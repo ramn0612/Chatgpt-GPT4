@@ -1,4 +1,4 @@
-# Chatgpt-GPT4
+# Chatgpt-GPT2
 # Chatbot
 Transfer learnt model built on a pretrained LLM such as GPT-2
 | **Task**                                     | **Comments**                                                                                          | **Status**      | **Individual Responsible** |
